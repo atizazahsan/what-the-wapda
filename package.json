@@ -12,6 +12,16 @@
     "battery": "^1.0.1",
     "battery-cli": "^1.0.2",
     "chalk": "^4.1.2",
+    "dateformat": "^5.0.3",
+    "moment": "^2.29.3",
     "mongodb": "^4.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahdi/what-the-wapda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fahdi/what-the-wapda/issues"
+  },
+  "homepage": "https://github.com/fahdi/what-the-wapda#readme"
 }
